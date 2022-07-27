@@ -3,7 +3,6 @@ module github.com/cesc1802/go-jira
 go 1.15
 
 require (
-	github.com/andygrunwald/go-jira v1.15.1
 	github.com/fatih/structs v1.1.0
 	github.com/golang-jwt/jwt/v4 v4.4.2
 	github.com/google/go-cmp v0.5.8
